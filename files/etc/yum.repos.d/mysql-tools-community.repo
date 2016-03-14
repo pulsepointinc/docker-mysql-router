@@ -1,0 +1,6 @@
+[mysql-tools-community]
+name=MySQL Community Tools
+baseurl=http://repo.mysql.com/yum/mysql-tools-community/el/7/x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-mysql
