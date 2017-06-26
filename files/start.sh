@@ -26,4 +26,4 @@ env:
 $(env)
 EOF
 
-exec /usr/sbin/mysqlrouter --config=/var/tmp/mysql-router.ini
+exec /bin/mysqlrouter --config=/var/tmp/mysql-router.ini
