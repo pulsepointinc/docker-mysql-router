@@ -11,5 +11,3 @@ RUN \
 COPY files/start.sh /
 
 CMD ["/start.sh"]
-
-USER mysql
