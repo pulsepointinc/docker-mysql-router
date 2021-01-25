@@ -1,3 +1,3 @@
 # DEPRECATED
 
-This repo is **deprecated**, so, please, avoid committing any changes, because we have migrated our Cloudera Manager to a VM.
+This repo is **deprecated**, so, please, avoid committing any changes, because we have replaced the MySQL router by ProxySQL in front of Percona XtraDB Cluster.
